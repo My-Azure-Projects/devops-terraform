@@ -5,6 +5,7 @@ output "resource_name" {
   description = "Output name of the created Resource Group"
 }
 
+
 # Output variables for the Static Website module
 
 output "name" {
