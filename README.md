@@ -2,9 +2,7 @@
 
 This repository contains sample Terraform configuration that can be used to provision a resource group and a storage account static website on Azure.
 
-
 ## Prerequisites
-
 
 - Install [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 - Install [Terraform](https://learn.hashicorp.com/terraform/getting-started/install)
